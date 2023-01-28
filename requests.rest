@@ -9,4 +9,4 @@ Content-Type: application/json
 GET http://localhost:3000/
 ###
 DELETE http://localhost:3000/users/1
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoxNjc0ODg2NDY0fQ.vk3uDdfwkGe1wSQDcjuwb2gg3jzEWbxrl1EiU_Qhumw
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoxNjc0ODg5MzQ5LCJleHAiOjE2NzQ4ODkzNjl9.EpduUq_woXf_kcO-cR1eFSZleiHrQAdFWCffKzBUNlI
