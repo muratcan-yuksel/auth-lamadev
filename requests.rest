@@ -1,0 +1,12 @@
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "name": "John",
+    "password": "john1234"
+}
+###
+GET http://localhost:3000/
+###
+DELETE http://localhost:3000/users/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoxNjc0ODg2NDY0fQ.vk3uDdfwkGe1wSQDcjuwb2gg3jzEWbxrl1EiU_Qhumw
